@@ -1,0 +1,16 @@
+body{
+    font-size: 14px;
+}
+.list li{ position: relative; height: 120px;}
+.list li div{
+    position: absolute;
+    width:120px;
+    text-align: left;
+    top:0;
+    left: 0;
+}
+
+.list p, .list h2{
+    margin-left: 120px;
+
+}
